@@ -1,0 +1,25 @@
+[character]
+symbol = "➜"
+
+[username]
+show_always = true
+style_user = "bold"
+
+[directory]
+style = "fg:39"
+
+[hostname]
+ssh_only = false
+style = "fg:214"
+
+[cmd_duration]
+style = "fg:209"
+
+[git_branch]
+style = "fg:209"
+
+[git_status]
+style = "fg:209"
+
+[git_state]
+style = "fg:209"
