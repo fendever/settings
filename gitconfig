@@ -1,0 +1,9 @@
+[user]
+	email = maxfilov@gmail.com
+	name = Maksim Panfilov
+[core]
+	editor = vim
+[alias]
+	ci = commit
+	st = status
+    co = checkout
